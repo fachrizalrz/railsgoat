@@ -1,6 +1,6 @@
 id:
   org: 46894da4-ac13-46a9-a00a-0e5aacda37f2
-  app: 86714f63-8b88-4b44-9539-e5e61f9e1d92
+  app: cd147b62-7512-4c28-b219-07dba227e859
 scanners:
   - sast
   - sca
